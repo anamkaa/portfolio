@@ -1,0 +1,1 @@
+ This is a basic portfolio to showcase my work.
