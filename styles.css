@@ -49,6 +49,7 @@ hr
 
 .link:hover{
     font-size:1.1rem;
+    color: var(--dark-grey);
 }
 
 .link-primary
