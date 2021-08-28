@@ -44,6 +44,11 @@ hr
 {
     text-decoration: none;
     padding: 0.4rem 0.4rem;
+    transition: 0.5s;
+}
+
+.link:hover{
+    font-size:1.1rem;
 }
 
 .link-primary
