@@ -48,7 +48,6 @@ hr
 }
 
 .link:hover{
-    font-size:1.1rem;
     color: var(--dark-grey);
 }
 
@@ -81,6 +80,7 @@ hr
     display: inline;
     padding: 0.5rem, 1rem;
 }
+
 
 /* navigation */
 
@@ -185,4 +185,12 @@ padding: 2rem;
 .footer .ul 
 {
     padding-inline-start: 0;
+}
+
+ul {
+    padding-inline-start: 0px;
+}
+
+.fab:hover{
+    color: var(--dark-grey);
 }
